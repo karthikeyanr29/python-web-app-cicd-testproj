@@ -65,5 +65,13 @@
     "mascot": "The Masked Rider and Raider Red",
     "nickname": "Red Raiders",
     "location": "Lubbock, TX, USA"
+  },
+  {
+    "guid": "bf98a44c-e26f-47ae-8f94-1a1b61a9c414",
+    "school": "West Virginia University",
+    "mascot": "The Mountaineer",
+    "nickname": "Mountaineers",
+    "location": "Morgantown, WV, USA",
+    "latlong": "39.63582, -79.95453"
   }
 ]
